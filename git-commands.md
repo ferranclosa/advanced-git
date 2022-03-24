@@ -24,3 +24,5 @@
 # git commit -ammend -m'<new message> to change the commit message 
 # git push  to push local changes to the remote repository 
 # git push --set-upstream origin <new-branch> to push and create a branch remotely (existing locally but not remote) 
+# git remote add <origin> <url> To create a connction between your current branch and a distant repository. Note thet <origin> is just a name to be used to connect to remote (like push)
+# git push -u  <origin> master to push to a named remote connection an existing local branch  
